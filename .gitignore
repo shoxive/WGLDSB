@@ -7,3 +7,10 @@
 /build
 /captures
 .externalNativeBuild
+/.idea/gradle.xml
+/.idea/runConfigurations.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/
+/build/

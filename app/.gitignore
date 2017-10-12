@@ -1,6 +1,8 @@
 .gradle
 .idea
+.idea/
 build
+/build
 *.iml
 captures
 .svn
